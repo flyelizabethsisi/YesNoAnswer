@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YesNoAnswer</string>
+    <string name="question_name">Question</string>
+    <string name="edittext_hint">Your question here</string>
+    <string name="text_question">What is your question?</string>
+    <string name="button_ready">I am ready!</string>
+    <string name="exclamation">!</string>
+</resources>
